@@ -1,7 +1,8 @@
-Here’s a clean and professional **README.md** file for your **MedTrack - Blockchain-Based Medical History Sharing System** GitHub repository. It includes an overview, features, setup instructions, and usage details.
+🏥 MedTrack – Blockchain-Based Medical History Sharing System
 
----
-
+Phase 2: Implementation & Execution
+College: VIT Bhopal University
+Name: Utkarsh Singh
 ```markdown
 # MedTrack - Blockchain-Based Medical History Sharing System
 
